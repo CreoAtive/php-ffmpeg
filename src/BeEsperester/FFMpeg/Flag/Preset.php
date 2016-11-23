@@ -1,8 +1,8 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Flag;
+namespace Beesperester\FFMpeg\Flag;
 
-use BeEsperester\FFMpeg\Coordinate\Timecode;
+use Beesperester\FFMpeg\Coordinate\Timecode;
 
 class Preset extends Flag
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Driver;
+namespace Beesperester\FFMpeg\Driver;
 
-use Fileresource\Fileresource;
+use Beesperester\Fileresource\Fileresource;
 
 use Closure;
 

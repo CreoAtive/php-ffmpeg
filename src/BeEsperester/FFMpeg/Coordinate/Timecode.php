@@ -1,6 +1,6 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Coordinate;
+namespace Beesperester\FFMpeg\Coordinate;
 
 class TimeCode
 {

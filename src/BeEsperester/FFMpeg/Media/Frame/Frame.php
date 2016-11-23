@@ -1,13 +1,13 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Media\Frame;
+namespace Beesperester\FFMpeg\Media\Frame;
 
-use Fileresource\Fileresource;
+use Beesperester\Fileresource\Fileresource;
 
-use BeEsperester\FFMpeg\Coordinate\Timecode;
-use BeEsperester\FFMpeg\Driver\FFMpegDriver;
-use BeEsperester\FFMpeg\Driver\FFProbeDriver;
-use BeEsperester\FFMpeg\Media\Media;
+use Beesperester\FFMpeg\Coordinate\Timecode;
+use Beesperester\FFMpeg\Driver\FFMpegDriver;
+use Beesperester\FFMpeg\Driver\FFProbeDriver;
+use Beesperester\FFMpeg\Media\Media;
 
 class Frame extends Media implements FrameInterface
 {

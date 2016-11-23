@@ -1,9 +1,9 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Format\Video;
+namespace Beesperester\FFMpeg\Format\Video;
 
-use BeEsperester\FFMpeg\Flag\Flag;
-use BeEsperester\FFMpeg\Flag\CRF;
+use Beesperester\FFMpeg\Flag\Flag;
+use Beesperester\FFMpeg\Flag\CRF;
 
 class x264Mobile360p extends x264
 {

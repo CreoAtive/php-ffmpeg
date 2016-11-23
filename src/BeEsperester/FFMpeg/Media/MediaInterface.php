@@ -1,10 +1,10 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Media;
+namespace Beesperester\FFMpeg\Media;
 
-use Fileresource\Fileresource;
+use Beesperester\Fileresource\Fileresource;
 
-use BeEsperester\FFMpeg\Flag\FlagInterface;
+use Beesperester\FFMpeg\Flag\FlagInterface;
 
 interface MediaInterface {
     /**

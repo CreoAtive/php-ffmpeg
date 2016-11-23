@@ -1,14 +1,14 @@
 <?php
 
-namespace BeEsperester\FFMpeg;
+namespace Beesperester\FFMpeg;
 
-use Fileresource\Fileresource;
+use Beesperester\Fileresource\Fileresource;
 
-use BeEsperester\FFMpeg\Coordinate\Timecode;
-use BeEsperester\FFMpeg\Driver\FFMpegDriver;
-use BeEsperester\FFMpeg\Driver\FFProbeDriver;
-use BeEsperester\FFMpeg\Media\Video\Video;
-use BeEsperester\FFMpeg\Media\Frame\Frame;
+use Beesperester\FFMpeg\Coordinate\Timecode;
+use Beesperester\FFMpeg\Driver\FFMpegDriver;
+use Beesperester\FFMpeg\Driver\FFProbeDriver;
+use Beesperester\FFMpeg\Media\Video\Video;
+use Beesperester\FFMpeg\Media\Frame\Frame;
 
 class FFMpeg
 {

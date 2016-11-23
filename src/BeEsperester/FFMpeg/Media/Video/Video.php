@@ -1,16 +1,16 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Media\Video;
+namespace Beesperester\FFMpeg\Media\Video;
 
-use Fileresource\Fileresource;
+use Beesperester\Fileresource\Fileresource;
 
-use BeEsperester\FFMpeg\Coordinate\Timecode;
-use BeEsperester\FFMpeg\Driver\FFMpegDriver;
-use BeEsperester\FFMpeg\Driver\FFProbeDriver;
-use BeEsperester\FFMpeg\Flag\Clip;
-use BeEsperester\FFMpeg\Flag\FlagInterface;
-use BeEsperester\FFMpeg\Format\FormatInterface;
-use BeEsperester\FFMpeg\Media\Media;
+use Beesperester\FFMpeg\Coordinate\Timecode;
+use Beesperester\FFMpeg\Driver\FFMpegDriver;
+use Beesperester\FFMpeg\Driver\FFProbeDriver;
+use Beesperester\FFMpeg\Flag\Clip;
+use Beesperester\FFMpeg\Flag\FlagInterface;
+use Beesperester\FFMpeg\Format\FormatInterface;
+use Beesperester\FFMpeg\Media\Media;
 
 class Video extends Media implements VideoInterface
 {

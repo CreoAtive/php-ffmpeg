@@ -1,6 +1,6 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Flag;
+namespace Beesperester\FFMpeg\Flag;
 
 class Flag implements FlagInterface
 {

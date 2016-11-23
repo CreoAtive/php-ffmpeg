@@ -1,8 +1,8 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Format\Video;
+namespace Beesperester\FFMpeg\Format\Video;
 
-use BeEsperester\FFMpeg\Flag\Flag;
+use Beesperester\FFMpeg\Flag\Flag;
 
 class x264HD720p extends x264
 {

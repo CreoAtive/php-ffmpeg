@@ -1,10 +1,10 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Format\Video;
+namespace Beesperester\FFMpeg\Format\Video;
 
-use BeEsperester\FFMpeg\Flag\ACodec;
-use BeEsperester\FFMpeg\Flag\VCodec;
-use BeEsperester\FFMpeg\Format\Format;
+use Beesperester\FFMpeg\Flag\ACodec;
+use Beesperester\FFMpeg\Flag\VCodec;
+use Beesperester\FFMpeg\Format\Format;
 
 class VideoFormat extends Format implements VideoFormatInterface
 {

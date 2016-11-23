@@ -1,8 +1,8 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Format\Video;
+namespace Beesperester\FFMpeg\Format\Video;
 
-use BeEsperester\FFMpeg\Format\FormatInterface;
+use Beesperester\FFMpeg\Format\FormatInterface;
 
 interface VideoFormatInterface extends FormatInterface
 {

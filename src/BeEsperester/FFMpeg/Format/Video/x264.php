@@ -1,10 +1,10 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Format\Video;
+namespace Beesperester\FFMpeg\Format\Video;
 
-use BeEsperester\FFMpeg\Flag\Flag;
-use BeEsperester\FFMpeg\Flag\CRF;
-use BeEsperester\FFMpeg\Flag\Preset;
+use Beesperester\FFMpeg\Flag\Flag;
+use Beesperester\FFMpeg\Flag\CRF;
+use Beesperester\FFMpeg\Flag\Preset;
 
 class x264 extends VideoFormat
 {

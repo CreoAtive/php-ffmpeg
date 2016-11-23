@@ -1,6 +1,6 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Media\Video;
+namespace Beesperester\FFMpeg\Media\Video;
 
 trait VideoTraits
 {

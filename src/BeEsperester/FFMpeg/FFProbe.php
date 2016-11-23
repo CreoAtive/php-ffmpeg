@@ -1,8 +1,8 @@
 <?php
 
-namespace BeEsperester\FFMpeg;
+namespace Beesperester\FFMpeg;
 
-use BeEsperester\FFMpeg\Driver\FFProbeDriver;
+use Beesperester\FFMpeg\Driver\FFProbeDriver;
 use Fileresource;
 
 class FFProbe {

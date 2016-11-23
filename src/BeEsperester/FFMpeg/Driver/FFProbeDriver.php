@@ -1,11 +1,11 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Driver;
+namespace Beesperester\FFMpeg\Driver;
 
-use Fileresource\Fileresource;
+use Beesperester\Fileresource\Fileresource;
 
-use BeEsperester\FFMpeg\Coordinate\Timecode;
-use BeEsperester\FFMpeg\Media\Video\VideoTraits;
+use Beesperester\FFMpeg\Coordinate\Timecode;
+use Beesperester\FFMpeg\Media\Video\VideoTraits;
 
 use Closure;
 

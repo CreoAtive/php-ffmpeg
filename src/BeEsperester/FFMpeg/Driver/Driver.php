@@ -1,12 +1,12 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Driver;
+namespace Beesperester\FFMpeg\Driver;
 
 use Closure;
 use Symfony\Component\Process\Process;
 use Symfony\Component\Process\Exception\ProcessFailedException;
 
-use Fileresource\Fileresource;
+use Beesperester\Fileresource\Fileresource;
 
 class Driver implements DriverInterface
 {

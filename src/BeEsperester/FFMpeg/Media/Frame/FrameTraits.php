@@ -1,6 +1,6 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Media\Frame;
+namespace Beesperester\FFMpeg\Media\Frame;
 
 trait FrameTraits
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace BeEsperester\FFMpeg\Format;
+namespace Beesperester\FFMpeg\Format;
 
-use BeEsperester\FFMpeg\Flag\FlagInterface;
+use Beesperester\FFMpeg\Flag\FlagInterface;
 
 use Closure;
 
