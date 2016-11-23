@@ -3,7 +3,7 @@
 namespace Beesperester\FFMpeg;
 
 use Beesperester\FFMpeg\Driver\FFProbeDriver;
-use Fileresource;
+use Beesperester\Fileresource\Fileresource;
 
 class FFProbe {
     /**
