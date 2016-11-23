@@ -2,7 +2,7 @@
     "name": "beesperester/php-ffmpeg",
     "autoload": {
         "psr-4" : {
-            "CreoAtive\\FFMpeg\\" : "src/FFMpeg"
+            "beesperester\\FFMpeg\\" : "src/FFMpeg"
         }
     },
     "require": {
