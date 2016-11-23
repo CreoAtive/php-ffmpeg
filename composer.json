@@ -7,7 +7,7 @@
     },
     "require": {
         "symfony/process": "^3.1",
-        "beesperester/php-fileresource": "^1.0"
+        "beesperester/php-fileresource": "^1.2"
     },
     "minimum-stability": "stable"
 }
