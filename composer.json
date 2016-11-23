@@ -1,0 +1,11 @@
+{
+    "name": "CreoAtive/php-ffmpeg",
+    "autoload": {
+        "psr-4" : {
+            "CreoAtive\\FFMpeg\\" : "src/FFMpeg"
+        }
+    },
+    "require": {
+        "symfony/process": "^3.1"
+    }
+}
