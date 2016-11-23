@@ -2,7 +2,7 @@
     "name": "beesperester/php-ffmpeg",
     "autoload": {
         "psr-4" : {
-            "BeEsperester\\FFMpeg\\" : "src/BeEsperester/FFMpeg"
+            "Beesperester\\FFMpeg\\" : "src/Beesperester/FFMpeg"
         }
     },
     "require": {
