@@ -16,7 +16,7 @@ class x264HD720p extends x264
         $max_width = 1280;
         $max_height = 720;
 
-        $this->addFlag(new Flag('-filter:v', 'scale=iw*sar:ih,scale="\'if(gt(iw,'.$max_width.'),-1,trunc(iw/2)*2)\':\'if(gt(ih,'.$max_height.'),'.$max_height.',trunc(ih/2)*2)\'"'));
+        $this->addFlag(new Flag('-filter:v', 'scale=iw*sar:ih,scale="\'if(gt(iw,'.$max_width.'),-2,trunc(iw/2)*2)\':\'if(gt(ih,'.$max_height.'),'.$max_height.',trunc(ih/2)*2)\'"'));
 
         $this->name = 'x264HD720p';
     }
